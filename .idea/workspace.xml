@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="148036bd-6f36-4f55-9b29-421063fd0ed4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/puzzleGame/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzleGame/webpack.mix.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gftycrSA5WWPgmFJqDWUBDChqf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="148036bd-6f36-4f55-9b29-421063fd0ed4" name="Default Changelist" comment="" />
+      <created>1598517747415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598517747415</updated>
+      <workItem from="1598517759148" duration="19000" />
+      <workItem from="1598517805758" duration="1645000" />
+      <workItem from="1598521588194" duration="1277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
